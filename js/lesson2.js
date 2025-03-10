@@ -55,3 +55,6 @@ const convertedString = integer.toString();
 console.log(convertedString)
 const stringNumber = "256"; 
 console.log(Number.parseInt(stringNumber))
+
+
+// Завдання 9 ?? Не знаю, як робити. Читала конспект, але не зрозуміла.
