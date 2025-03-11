@@ -15,12 +15,13 @@ console.log("Кількість хвилин у цьому місяці" , minut
 
 // Завдання 3
 
+
 let health = 100;
-health = health - 40;
+health  -=  40;
 console.log( "health :" , health)
 
 let energy = 100;
-energy = energy - 75;
+energy -=  75;
 console.log("energy :" , energy)
 
 
