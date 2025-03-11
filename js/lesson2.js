@@ -48,8 +48,9 @@ console.log(Number.parseFloat("45.67"));
 const intString = "123";
 console.log(Number.parseInt(intString))
 
+// Завдання 8?? Не знаю, як робити. Читала конспект, але не зрозуміла.
 
-// Завдання 8
+// Завдання 9
 
 const integer = 42; 
 const convertedString = integer.toString(); 
@@ -58,4 +59,3 @@ const stringNumber = "256";
 console.log(Number.parseInt(stringNumber))
 
 
-// Завдання 9 ?? Не знаю, як робити. Читала конспект, але не зрозуміла.
