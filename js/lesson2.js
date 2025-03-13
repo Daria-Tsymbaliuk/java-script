@@ -36,7 +36,10 @@ console.log( "Знижка :" , discount )
 console.log( "Вартість цієї покупки зі знижкою :" , totalPrice - discount )
 
 
-// Завдання 5 ?? Не знаю, як робити. Читала конспект, але не зрозуміла.
+// Завдання 5 
+
+const floatNumber = 12.78; 
+console.log("Округлення числа до меншого :" , Math.floor(floatNumber)); 
 
 // Завдання 6
 
@@ -48,7 +51,9 @@ console.log(Number.parseFloat("45.67"));
 const intString = "123";
 console.log(Number.parseInt(intString))
 
-// Завдання 8?? Не знаю, як робити. Читала конспект, але не зрозуміла.
+// Завдання 8
+let number = 25; 
+console.log("number with Math.sqrt :" , Math.sqrt(number)); 
 
 // Завдання 9
 
