@@ -19,9 +19,9 @@ console.log(myNumber)
 let myNull = null;
 console.log(myNull)
 
-let UserName = prompt("Hello what is your name?");
-console.log(UserName)
-alert(" Hi " + UserName + " nice to meet you 😊");
+let userName = prompt("Hello what is your name?");
+console.log(userName)
+alert(" Hi " + userName + " nice to meet you 😊");
 
 let userAnswer = confirm("Ви дійсно хочете покинути сторінку?");
 console.log(userAnswer);
