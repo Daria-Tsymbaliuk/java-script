@@ -23,11 +23,14 @@ for (let i = 1; i <= 10; i += 1) {
 
 // Завдання 4
 let n = 15;
-for (let i = 1; ; i += 1) {
-  if (i >= n) {
+let i2 = 0;
+
+while (true) {
+  if (i2 >= n) {
     break;
   }
-  console.log(" Завдання 4 :" ,i);
+  console.log(" Завдання 4 :" , i2);
+ i2 += 1;
 }
 
 
